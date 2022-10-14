@@ -1,15 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>https://zoonedtomuch.github.io/</loc>
-  <lastmod>2022-10-07T10:01:32+00:00</lastmod>
+<loc>https://zoonedtomuch.github.io/tel:0123 456 789</loc>
+<lastmod>2022-10-14</lastmod>
 </url>
-
-
+<url>
+<loc>https://zoonedtomuch.github.io/hhttp://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/</loc>
+<lastmod>2022-10-14</lastmod>
+</url>
+<url>
+<loc>https://zoonedtomuch.github.io/EXPERIENCES.html</loc>
+<lastmod>2022-10-14</lastmod>
+</url>
+<url>
+<loc>https://zoonedtomuch.github.io/PROJECTS.html</loc>
+<lastmod>2022-10-14</lastmod>
+</url>
+<url>
+<loc>https://zoonedtomuch.github.io/SKILLS &amp; PROFICIENCY.html</loc>
+<lastmod>2022-10-14</lastmod>
+</url>
+<url>
+<loc>https://zoonedtomuch.github.io/404.html</loc>
+<lastmod>2022-10-14</lastmod>
+</url>
+<url>
+<loc>https://zoonedtomuch.github.io/Career profile.html</loc>
+<lastmod>2022-10-14</lastmod>
+</url>
 </urlset>
