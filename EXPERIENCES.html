@@ -8,4 +8,24 @@
 	<div>Модель: <span itemprop="model">3774438</span></div>
 	<div itemprop="description">Дизайнерская футболка, перевод надписи - <br> "Нечего делать с ножом там, где нужен топор". Футболка с классным <br> дизайном, изготовлена из качественных материалов и стойкой краски.</div>
 </div>
+	
+	<div itemscope itemtype="https://schema.org/Organization"><!-- Тип схемы Organization (для компаний)  -->
+   <meta itemprop="name" content="Название блога (организации)">
+   <meta itemprop="address" content="Город">
+   <meta itemprop="telephone" content="+70000000000">
+
+   <!-- Размечаем социальные сети  -->
+   <link itemprop="url" href="https://example.com/"><!-- URL-адрес блога (организации)-->
+      <ul>
+         <li><a itemprop="sameAs" href="#" target="_blank" rel="external">Мы в Facebook</a></li><!-- Ссылки на ваши соцсети или сайт автора -->
+         <li><a itemprop="sameAs" href="#" target="_blank" rel="external">Мы в Linked</a></li>
+         <li><a itemprop="sameAs" href="#" target="_blank" rel="external">Подпишись в Twitter</a></li>
+      </ul>
+   <!-- Размечаем логотип  -->
+   <div class="logo" itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+     <a href="https://example.com/" class="" rel="home" itemprop="url image"><img width="Ширина лого" height="Высота лого" src="https://example.com/logo.jpg" class="logo" alt="Микроразметка Schema.org для Блога" itemprop="url image"></a>
+     <meta itemprop="width" content="Ширина лого">
+     <meta itemprop="height" content="Высота лого">
+   </div>
+</div>
 </html>
