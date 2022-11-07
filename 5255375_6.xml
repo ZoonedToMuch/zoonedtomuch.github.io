@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+	<loc>https://zoonedtomuch.github.io/</loc>
+	<lastmod>2022-11-07T07:43:14+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://zoonedtomuch.github.io/EXPERIENCES.html</loc>
+	<lastmod>2022-11-07T07:43:14+01:00</lastmod>
+	<priority>1.0</priority>
+	<image:image>
+			<image:loc>https://zoonedtomuch.github.io/assets/images/profile.png</image:loc>
+	</image:image>
+</url>
+<url>
+	<loc>https://zoonedtomuch.github.io/PROJECTS.html</loc>
+	<lastmod>2022-11-07T07:43:14+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://zoonedtomuch.github.io/SKILLS%20&amp;%20PROFICIENCY.html</loc>
+	<lastmod>2022-11-07T07:43:14+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://zoonedtomuch.github.io/404.html</loc>
+	<lastmod>2022-11-07T07:43:14+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://zoonedtomuch.github.io/Career%20profile.html</loc>
+	<lastmod>2022-11-07T07:43:14+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+</urlset>
